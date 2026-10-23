@@ -8,7 +8,7 @@ I build Java applications with REST APIs, relational databases, and automated te
 
 | Project | What you'll find |
 | --- | --- |
-| [Words Up / FlashCards2.0](https://github.com/RuslanGabd/FlashCards2.0) | A vocabulary learning application with public/private collections and several study modes. Spring Boot, PostgreSQL, Flyway, Docker, backend tests and browser regressions. |
+| [Words Up ](https://github.com/RuslanGabd/FlashCards2.0) | A vocabulary learning application with public/private collections and several study modes. Spring Boot, PostgreSQL, Flyway, Docker, backend tests and browser regressions. |
 | [Transcended](https://github.com/RuslanGabd/transcended) | A social application backend with profiles, posts, comments and reactions. Includes database migrations, API documentation and tests across service, repository and controller layers. |
 | [BookStore](https://github.com/RuslanGabd/BookStore) | A multi-module bookstore REST API for books, orders and stock, with role-based access and service tests. Built during a Senla course. |
 | [CK Sport Center Bot](https://github.com/RuslanGabd/CK_bot) | Court availability monitoring and Telegram notifications. Stored subscriptions, duplicate notification prevention, automated tests and Docker startup. |
