@@ -1,47 +1,32 @@
-<div id="header" align="center">
-    <h1>Hi there, I'm  Ruslan </h1>
-  
-</div>
+# Hi, I'm Ruslan
 
-<div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/ruslangabd/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/ruslan_g_r">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-<!--
-### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+**Java Backend Developer · Spring Boot · SQL · API Testing**
 
----
+I build Java applications with REST APIs, relational databases, and automated tests. My repositories include personal projects and coursework, with a focus on backend development and API testing.
 
-### Languages and tools
+## Selected projects
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+| Project | What you'll find |
+| --- | --- |
+| [Words Up / FlashCards2.0](https://github.com/RuslanGabd/FlashCards2.0) | A vocabulary learning application with public/private collections and several study modes. Spring Boot, PostgreSQL, Flyway, Docker, backend tests and browser regressions. |
+| [Transcended](https://github.com/RuslanGabd/transcended) | A social application backend with profiles, posts, comments and reactions. Includes database migrations, API documentation and tests across service, repository and controller layers. |
+| [BookStore](https://github.com/RuslanGabd/BookStore) | A multi-module bookstore REST API for books, orders and stock, with role-based access and service tests. Built during a Senla course. |
+| [CK Sport Center Bot](https://github.com/RuslanGabd/CK_bot) | Court availability monitoring and Telegram notifications. Stored subscriptions, duplicate notification prevention, automated tests and Docker startup. |
+| [API Testing Automation](https://github.com/RuslanGabd/API-Testing-Automation-Project) | Java API tests for Reqres using JUnit 5, Rest Assured and Allure, covering positive and negative scenarios. |
 
+## Technologies used in these projects
 
-### My stat
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA / Hibernate, REST APIs.
+- **Databases:** PostgreSQL, MySQL, SQLite; Flyway migrations.
+- **Testing:** JUnit 5, Mockito, Rest Assured, Allure, Playwright.
+- **Build and delivery:** Maven, Gradle, Docker, Git, GitHub Actions.
+- **Frontend:** JavaScript, HTML and CSS for the flashcard application.
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
-</div>
+## More of my work
 
----
--->
+- [C graphics project — cube3d](https://github.com/RuslanGabd/cube3d)
+- [Study notes and interview preparation](https://github.com/RuslanGabd/RuslanGabd.github.io)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ruslangabd/) · [Telegram](https://t.me/ruslan_g_r)
